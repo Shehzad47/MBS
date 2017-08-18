@@ -1,0 +1,10 @@
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+
+php_value upload_max_filesize 40M
+php_value post_max_size 40M
+php_value max_execution_time 500
+php_value max_input_time 500
