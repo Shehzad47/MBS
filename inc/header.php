@@ -11,7 +11,7 @@ if (!isset($_SESSION['start'])) {
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- <link rel="stylesheet" href="css/bootstrap.css"> -->
-<link rel="stylesheet" href="css/w3.css">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/3/w3.css">
 <link rel="stylesheet" href="css/w3-custom.css">
 <link rel="stylesheet" href="css/custom.css">
 <link rel="stylesheet" href="css/w3-theme-indigo.css">
