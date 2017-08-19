@@ -40,7 +40,7 @@ session_destroy();
 
 			<div class="w3-half w3-hide-small w3-content">
 				<div class="w3-content" align="center">
-					<img class="" src="img/welcome1.png" alt="Get Connected" style="width:100%;max-width:400px">
+					<img class="" src="img/welcome.png" alt="Get Connected" style="width:100%;max-width:400px">
 				</div>
 			</div>
 
