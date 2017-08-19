@@ -25,8 +25,8 @@ password : shehzad
 for Login or Signup for a new account and then you are good to go.
 
 ## Sample Screens
-![*Newsfeed Area*](https://github.com/Shehzad47/MBS/blob/master/img/screenshots/newsfeed.JPG"Newsfeed")
+![*Newsfeed Area*](https://github.com/Shehzad47/MBS/blob/master/img/screenshots/newsfeed.JPG)
 
 -------------------
 
-![*User Profile*](https://github.com/Shehzad47/MBS/blob/master/img/screenshots/profile.JPG"User")
+![*User Profile*](https://github.com/Shehzad47/MBS/blob/master/img/screenshots/profile.JPG)
