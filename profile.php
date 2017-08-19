@@ -10,9 +10,9 @@
 				</p>
 				<h5 class="w3-center"><?php echo $_SESSION["full_name"]; ?></h5>
 				<hr>
-				<p><i class="fa fa-pencil fa-fw w3-margin-right w3-text-theme"></i> Designer, UI</p>
-				<p><i class="fa fa-home fa-fw w3-margin-right w3-text-theme"></i> London, UK</p>
-				<p><i class="fa fa-birthday-cake fa-fw w3-margin-right w3-text-theme"></i> April 1, 1988</p>
+				<p><i class="fa fa-pencil fa-fw w3-margin-right w3-text-theme"></i> Web Developer</p>
+				<p><i class="fa fa-home fa-fw w3-margin-right w3-text-theme"></i> Karachi, Pakistan</p>
+				<p><i class="fa fa-birthday-cake fa-fw w3-margin-right w3-text-theme"></i> Oct 13, 1995</p>
 			</div>
 		</div>
 		<br>
