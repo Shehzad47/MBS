@@ -14,7 +14,7 @@ This is a simple CRUP Application with some enhancements and is capable of:
 
 
 ## Setup
-in order to run this application you must have a xampp or any other local server setup installed in your system.copy a file called 
+In order to run this application you must have a **xampp** or any other local server setup installed in your system.Copy a file called 
 `mbs.sql` from `MBS/db/` which contains all the queries required to create a database structure and some seed data,
 export it to your server so that the database would be created for this app on your server.
 use:
@@ -22,10 +22,11 @@ use:
 username : shehzad
 password : shehzad
 ```
-or signup for a new account and then you are good to go.
+for Login or Signup for a new account and then you are good to go.
 
 ## Sample Screens
-![example screenshot](https://github.com/Shehzad47/MBS/blob/master/img/screenshots/profile.JPG)
+![Newsfeed Area](https://github.com/Shehzad47/MBS/blob/master/img/screenshots/newsfeed.JPG)
 
+-------------------
 
-![example screenshot](https://github.com/Shehzad47/MBS/blob/master/img/screenshots/profile.JPG)
+![User Profile](https://github.com/Shehzad47/MBS/blob/master/img/screenshots/profile.JPG)
