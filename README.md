@@ -2,8 +2,8 @@
 MBS (Message Broadcasting Service) is a social network app built with core Php.
 
 ## Summary
-MBS is a very **Lightweight Social Network App** built for practicing my php skills.The outline of main theme is grabbed from W3.CSS and then redesigned and structured to feel a look of facebook.
-This is a simple CRUP Application with some enhancements and is capable of:
+MBS is a very **Lightweight Social Network App** built for practicing my php skills.The outline of main theme is grabbed from [*W3.CSS*](https://www.w3schools.com/w3css/) and then redesigned and structured to feel a look of facebook.
+This is a simple **CRUD** Application with some enhancements and is capable of:
 > - signing in an existing user or regestring a new user.
 > - Users can add or remove a new post, 
 > - like other posts by other users, 
@@ -25,8 +25,8 @@ password : shehzad
 for Login or Signup for a new account and then you are good to go.
 
 ## Sample Screens
-![Newsfeed Area](https://github.com/Shehzad47/MBS/blob/master/img/screenshots/newsfeed.JPG)
+![*Newsfeed Area*](https://github.com/Shehzad47/MBS/blob/master/img/screenshots/newsfeed.JPG"Newsfeed")
 
 -------------------
 
-![User Profile](https://github.com/Shehzad47/MBS/blob/master/img/screenshots/profile.JPG)
+![*User Profile*](https://github.com/Shehzad47/MBS/blob/master/img/screenshots/profile.JPG"User")
